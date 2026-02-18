@@ -1,5 +1,5 @@
 const nombreNube   = "dbzobibnj";      
-const presetSubida = "TU_UPLOAD_PRESET"; 
+const presetSubida = "PresetAatrox"; 
 
 // Elementos del DOM
 const entradaArchivo = document.getElementById("entradaArchivo");
